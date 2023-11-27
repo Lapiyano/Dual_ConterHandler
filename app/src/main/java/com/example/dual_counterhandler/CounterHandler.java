@@ -328,7 +328,7 @@ public class CounterHandler {
         }
 
         public Builder counterStep2(double val) {
-            counterStep = val;
+            counterStep2 = val;
             return this;
         }
         public Builder counterDelay(int val) {
